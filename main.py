@@ -4,5 +4,9 @@ class Dog:
     self.color = color
 
 my_dog = Dog('male', 'black')
-print(my_dog)
+print(my_dog.gender)
+
+
+
+
 
