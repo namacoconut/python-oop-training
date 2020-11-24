@@ -14,8 +14,6 @@ my_dog = Dog('male', 'black')
 print(my_dog.gender)
 
 
-speek_voice = speak('noise')
-print(speek_voice.sound)
 
 
 
