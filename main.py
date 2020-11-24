@@ -11,8 +11,11 @@ class Dog:
         return f"{self.gender} says {sound}"
 
 my_dog = Dog('male', 'black')
-# print(speak = 'noise') 
 print(my_dog.gender)
+
+
+speek_voice = speak('noise')
+print(speek_voice.sound)
 
 
 
